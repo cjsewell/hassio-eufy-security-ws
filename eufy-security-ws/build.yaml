@@ -10,3 +10,5 @@ codenotary:
   base_image: notary@home-assistant.io
 args:
   EUFY_SECURITY_WS_VERSION: 3.1.0
+  EUFY_SECURITY_CLIENT_REPOSITORY: https://github.com/cjsewell/eufy-security-client.git
+  EUFY_SECURITY_CLIENT_REF: e572e549a8eef2edcc028aec79008aafa8480fbc
