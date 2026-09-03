@@ -1,6 +1,6 @@
 name: eufy-security-ws patched
 description: Eufy WebSocket bridge with T8021 command handling fixes
-version: 3.1.0-patched.2
+version: 3.1.0-patched.3
 slug: "eufy_security_ws_patched"
 url: https://github.com/cjsewell/hassio-eufy-security-ws
 init: false
