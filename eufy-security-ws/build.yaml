@@ -11,4 +11,4 @@ codenotary:
 args:
   EUFY_SECURITY_WS_VERSION: 3.1.0
   EUFY_SECURITY_CLIENT_REPOSITORY: https://github.com/cjsewell/eufy-security-client.git
-  EUFY_SECURITY_CLIENT_REF: b261efbd68d61397a59aa37ae08fc3e4b9cbb89f
+  EUFY_SECURITY_CLIENT_REF: dea42da0a282a82a347d63bae8759cd52156a346
